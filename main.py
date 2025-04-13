@@ -2,9 +2,9 @@
 # -*- encoding: utf-8 -*-
 
 '''
-@File         : wine-rag.py
+@File         : main.py
 @Created      : 2025-04-13 12:14:05
-@Project      : Wine RAG
+@Project      : Wine Recommender RAG
 '''
 
 
